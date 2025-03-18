@@ -1,0 +1,12 @@
+C:\Users\m4la3\source\repos\MonkeComputer\Kolossal\obj\Debug\BananaWatch.csproj.AssemblyReference.cache
+C:\Users\m4la3\source\repos\MonkeComputer\Kolossal\obj\Debug\BananaWatch.csproj.CoreCompileInputs.cache
+C:\Users\m4la3\source\repos\MonkeComputer\Kolossal\obj\Debug\BananaWa.873F103C.Up2Date
+C:\Users\m4la3\source\repos\MonkeComputer\Kolossal\obj\Debug\BananaWatch.dll
+C:\Users\m4la3\source\repos\MonkeComputer\Kolossal\obj\Debug\BananaWatch.pdb
+C:\Users\m4la3\source\repos\MonkeWatchIntegrationExample\Kolossal\obj\Debug\BananaWatch.csproj.AssemblyReference.cache
+C:\Users\m4la3\source\repos\MonkeWatchIntegrationExample\Kolossal\obj\Debug\BananaWatch.csproj.CoreCompileInputs.cache
+C:\Users\m4la3\source\repos\MonkeWatchIntegrationExample\Kolossal\obj\Debug\BananaWa.873F103C.Up2Date
+C:\Users\m4la3\Downloads\wo\BepInEx\plugins\QoLTag.dll
+C:\Users\m4la3\Downloads\wo\BepInEx\plugins\QoLTag.pdb
+C:\Users\m4la3\source\repos\MonkeWatchIntegrationExample\Kolossal\obj\Debug\QoLTag.dll
+C:\Users\m4la3\source\repos\MonkeWatchIntegrationExample\Kolossal\obj\Debug\QoLTag.pdb
